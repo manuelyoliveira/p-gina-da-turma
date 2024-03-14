@@ -3,9 +3,13 @@
    
     header{
         background-color: rgb(7, 196, 230);
-        color: white;
+        color: rgba(12, 12, 12, 0.267);
         display: flex;
         justify-content: space-around;
         padding: 24px 0;
    
     }
+
+.cabecalho-lista-item{
+    display: inline-block;
+}
